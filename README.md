@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td rowspan="2"><img src="azur-lane-akashi.gif"></img></td>
+    <td rowspan="2"><img src="azur-lane-akashi.gif" width="180"></img></td>
     <td colspan="5"><h1> ARR CONSOLE </h1></td>
   </tr>
   <tr>
